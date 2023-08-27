@@ -1,0 +1,224 @@
+.tapnav{
+    background-color: #f72323;
+    overflow: hidden;
+  }
+  .main{
+    /* position: fixed; */
+    background-color: white;
+    padding-top: 0px;
+  }
+  .tapnav{
+
+    float: left;
+    color: #000;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: 17px;
+  }
+
+  .tapnav a:hover{
+
+  background-color: #f72323;
+  color: #f72323;
+  }
+
+  .tapnav a.active{
+
+    background-color: aqua;
+    color: aquamarine;
+  }
+
+.fotor ul{
+
+  list-style: none;
+
+}
+.fotortable{
+  border-spacing: 120px
+}
+.fotor{
+  background-color: silver;
+  
+}
+  .main nav ul{
+
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    align-items: center;
+    gap: 70px;
+    list-style: none;
+    z-index: 10;
+  }
+  .main nav ul a{
+    text-decoration: none;
+  }
+  .main nav{
+
+    background-color: rgb(243, 243, 243)
+    border: white solid
+  }
+.location{
+    margin-left: 40px;
+    margin-right: 60px;
+}
+
+table{
+    border-spacing: 10px;
+}
+/*
+td{
+    width: 400px; height: 200px;
+} */
+
+.Categories{
+  background-color: rgb(241, 238, 233);
+}
+
+h3{
+  text-align: center;
+}
+.piccategories{
+  border-spacing: 40px;
+}
+.sales{
+  border-spacing: 25px;
+}
+.size{
+padding-left: 15px;
+}
+.boder{
+  text-align: centers;
+  
+  border: solid silver
+}
+.bold{
+  font-size: medium;
+color: rgb(117, 112, 112);
+}
+.tophidding{
+  padding-left: 22px;
+}
+
+.OLXAPP{
+  color: rgb(61, 60, 60);
+}
+h5{
+  font-size: large;
+}
+.appgap{
+  gap: 20px;
+}
+.last{
+  position: relative;
+  size: 100%;
+  color: white;
+  text-align: end;
+
+  background-color: rgb(14, 41, 36);
+  
+  padding: 10px;
+}
+
+a{
+  color: black;
+}
+/* .input{
+  position: absolute;
+} */
+
+.location .placeholder select {
+  width: 260px;
+  height: 45px;
+  font-size: larger;
+  border: 2px solid black;
+} 
+/* .search{
+  position: relative;
+} */
+.location .input input {
+  width: 650px;
+  height: 45px;
+  border: 2px solid black;
+  font-size: larger;
+} 
+.locatio{
+  display: inline-block;
+  background-color: rgb(12, 44, 12);
+  width: 20px;
+
+ 
+}
+.icon1{
+  position: absolute;
+  margin-top: -40px;
+  margin-left: -295px;
+  /* height: 40px; */
+
+  padding: 15px;
+/* padding-bottom: 8px; */
+display: inline-block; 
+}
+.glass{
+  
+  position: absolute;
+      margin-top: -19px;
+      margin-left: -80px;
+      /* height: 40px; */
+    
+      padding: 15px;
+/* padding-bottom: 8px; */
+  display: inline-block;
+  background-color: rgb(13, 27, 13);
+
+}
+
+.login a{
+  color: rgb(12, 44, 12);
+  font-size: larger;
+}
+.button{
+  color: rgb(12, 44, 12);
+  border: 5px solid rgb(255, 187, 0); 
+  border-radius: 15px;
+
+    border-radius: 26px;
+    font-size: large;
+  
+  background-color: rgb(255, 255, 255);
+  
+  font-style: italic;
+  padding-left: 20px;
+  padding-right: 20px;
+  padding-bottom: 5px;
+  padding-top: 10px; 
+  
+  }
+
+.button a {
+  color: rgb(12, 44, 12);
+  font-size: larger;
+}
+
+.header{
+
+height: 5px;
+}
+.location{
+  display: inline-block;
+
+margin: 10px;
+
+}
+.location > img{
+  width: 70px;
+  padding-left: 10px;
+}
+
+.location > login{
+  width: 30px;
+}
+.location > button{
+  width: 10px;
+}
+
